@@ -1,2 +1,2 @@
-# physicsEngiene
-made ground and ball using physics engiene matter.js
+# staticSquare
+A static square made using Matter.js physics engine
